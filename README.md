@@ -14,7 +14,9 @@ Go to Repository here:
 
 
 Click green <>Code button
+
 Click Open with GitHub Desktop
+
 	This should trigger GitHud Desktop to open to the Eerie-Tracks repo
 
 Did that work?
@@ -29,6 +31,7 @@ and it keeps a history of the files just in case something gets messed up
 
 
 Click Repository -> Show in Explorer
+
 	**Note: On Mac this might be Show in Finder
 
 	This should open your file explorer to the Repository is stored
@@ -40,13 +43,10 @@ Click Repository -> Show in Explorer
 	Try making your own change to the ReadMe (write Hello at the bottom ) then save
 
 
-Now the README is changed on your local computer but how do you get those changes to me?
-
-	- this is called "pushing" your changes
-
-	* when you grab someone elses changes and bring them down to your computer that is "pulling"
-
-	+ a group of changes you are "pushing" is called a "commit" that's just telling the computer "these are the specific files I'd like to share with the group" that way you don't need to send every single file you've changes"
+Now the README is changed on your local computer but how do you get those changes to everone else?
+- this is called "pushing" your changes
+* when you grab someone elses changes and bring them down to your computer that is "pulling"
++ a group of changes you are "pushing" is called a "commit" that's just telling the computer "these are the specific files I'd like to share with the group" that way you don't need to send every single file you've changes"
 
 
 So you want to "push" a "commit"
