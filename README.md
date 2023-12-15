@@ -69,6 +69,10 @@ This will send your changes up onto the GitHub for all of us to use!
 
 ### Refesh and you should see the change you made to the README.md
 
-CONGRATS
+CONGRATS thats all the basics
+
+The above will work with new files you've created as well, did you draw a banana? Just make sure it's in the GitHub/Eerie-Tracks folder and GitHub should pick it up
+
+Once you are comfortable with this workflow let me know and I will explain branches to you
 
 
