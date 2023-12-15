@@ -57,11 +57,11 @@ Under that is a description box, you can also you this to elaborite on what the 
 
 
 ### Click Commit to main button
-	This creates you're commit, well done now we just have to "push" it
+This creates you're commit, well done now we just have to "push" it
 
 
 ### Click Push Origin
-	This will send your changes up onto the GitHub for all of us to use!
+This will send your changes up onto the GitHub for all of us to use!
 
 
 ### Go back to GitHub:
