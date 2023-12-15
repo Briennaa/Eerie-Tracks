@@ -40,7 +40,7 @@ Click Repository -> Show in Explorer
 Now the README is changed on your local computer but how do you get those changes to me?
 	-> this is called "pushing" your changes
 	-> when you grab someone elses changes and bring them down to your computer that is "pulling"
-	-> a group of changes you are "pushing" is called a "commit" that's just telling the computer "this are the specific files I'd like to share with the group""
+	-> a group of changes you are "pushing" is called a "commit" that's just telling the computer "these are the specific files I'd like to share with the group" that way you don't need to send every single file you've changes"
 
 
 So you want to "push" a "commit"
