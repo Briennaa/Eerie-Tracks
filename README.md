@@ -4,9 +4,10 @@ Hidden Object Game
 
 ## SETUP
 
-### Download GitHub Desktop here:
+### Download GitHub Desktop:
 	https://desktop.github.com/
-	(Sign in/grant permissions when prompted)
+
+(Sign in/grant permissions when prompted)
 
 
 ### Go to Repository here:
@@ -20,7 +21,7 @@ Hidden Object Game
 This should trigger GitHud Desktop to open to the Eerie-Tracks repo
 
 Did that work?
-CONGRATES
+CONGRATS
 
 
 
@@ -34,13 +35,13 @@ and it keeps a history of the files just in case something gets messed up
 
 **Note: On Mac this might be Show in Finder
 
-This should open your file explorer to the Repository is stored
+This should open your file explorer to where the Repository is stored
 
 When you make changes in the directory GitHub will notice and show those file changes 
 
 For instance when I saved these instructions to in the README.md it was reflected in GitHub Desktop under CHANGES
 
-### Try making your own change to the ReadMe (write Hello at the bottom ) then save
+### Try making your own change to the ReadMe (write Hello at the bottom or fix a typo) then save
 
 
 ### Now the README is changed on your local computer but how do you get those changes to everone else?
@@ -68,6 +69,6 @@ Under that is a description box, you can also you this to elaborite on what the 
 
 ### Refesh and you should see the change you made to the README.md
 
-CONGRATES
+CONGRATS
 
 
