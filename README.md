@@ -30,21 +30,28 @@ and it keeps a history of the files just in case something gets messed up
 
 Click Repository -> Show in Explorer
 	**Note: On Mac this might be Show in Finder
+
 	This should open your file explorer to the Repository is stored
+
 	When you make changes in the directory GitHub will notice and show those file changes 
 
 	For instance when I saved these instructions to in the README.md it was reflected in GitHub Desktop under CHANGES
-	Try making your own change to the ReadMe (write Hello at the bottom :)) then save
+
+	Try making your own change to the ReadMe (write Hello at the bottom ) then save
 
 
 Now the README is changed on your local computer but how do you get those changes to me?
+
 	- this is called "pushing" your changes
+
 	* when you grab someone elses changes and bring them down to your computer that is "pulling"
+
 	+ a group of changes you are "pushing" is called a "commit" that's just telling the computer "these are the specific files I'd like to share with the group" that way you don't need to send every single file you've changes"
 
 
 So you want to "push" a "commit"
 	On the Changes tab you should see a little bar that auto filled with "Update README.md" this is the name of your "commit" in the future name it so you can remember what that specific change was for
+
 	Under that is a description box, you can also you this to elaborite on what the change was for in more depth than the name
 
 
@@ -61,4 +68,4 @@ Go back to GitHub:
 
 Refesh and you should see the change you made to the README.md
 
-:)
+
